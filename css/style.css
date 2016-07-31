@@ -1,0 +1,40 @@
+/*
+PALETA
+#1c3144
+#d00000
+#F57C00
+#FF9800
+#ffba08
+*/
+
+html{
+  color: #1c3144;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+p.indent{
+  text-align: center;
+}
+
+i.icon-orange{
+  color: #ff9800;
+}
+
+.center-btn {
+  text-align: center
+}
+
+span{
+  color: #F57C00;
+}
+
+.curriculum{
+  float: left;
+  display: inline-block;
+}
