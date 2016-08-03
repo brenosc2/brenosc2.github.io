@@ -38,3 +38,7 @@ span{
   float: left;
   display: inline-block;
 }
+
+.mailme{
+  font-size: 1.2em;
+}
